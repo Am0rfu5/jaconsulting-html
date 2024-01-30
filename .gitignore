@@ -1,1 +1,5 @@
 /images/orig/
+.gitignore
+generic.html
+case-study-template.html
+elements.html
